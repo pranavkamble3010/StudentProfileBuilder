@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student Profile Builder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_txt_fname">First Name</string>
+    <string name="lbl_txt_lname">Last Name</string>
+    <string name="lbl_txt_stuId">Student ID</string>
+    <string name="lbl_rb_cs">CS</string>
+    <string name="lbl_rb_sis">SIS</string>
+    <string name="lbl_rb_bio">BIO</string>
+    <string name="lbl_rb_other">Other</string>
+    <string name="lbl_btn_save">Save</string>
+    <string name="lbl_txt_name">Name:</string>
+</resources>
